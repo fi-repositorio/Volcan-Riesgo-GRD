@@ -5,8 +5,9 @@ DISPONIBILIDAD DE DATOS GEOLOCALIZADOS PARA LA TOMA DE DECISIONES EN LA
 GESTIÓN DE RIESGOS DE DESASTRES. CASOS DE ESTUDIO: VOLCÁN, PROVINCIA DE JUJUY.
 D/I002<br>
 Director: Susana Chalabe (Docente Investigador Cat. II)<br>
-Palabras claves: Riesgos de Desastres – Datos - Disponibilidad – Decisiones
-Disaster risks - Data - Availability - - Decisions
+Palabras claves:<br>
+Riesgos de Desastres – Datos - Disponibilidad – Decisiones<br>
+Disaster risks - Data - Availability - - Decisions<br>
 
 ## Marco institucional
 Este repositorio presenta un visor web de información geoespacial desarrollado
