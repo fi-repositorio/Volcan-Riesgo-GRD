@@ -1,5 +1,11 @@
 # Datos para la Gestión del Riesgo de Desastres – Volcán, Jujuy (RA)
-Proyecto FI-D-1002 SECTER–UNJu
+Proyecto FI-D-1002 SECTER–UNJu: 
+DISPONIBILIDAD DE DATOS GEOLOCALIZADOS PARA LA TOMA DE DECISIONES EN LA 
+GESTIÓN DE RIESGOS DE DESASTRES. CASOS DE ESTUDIO: VOLCÁN, PROVINCIA DE JUJUY.
+D/I002
+Director: SUSANA CHALABE (Docente Investigador Cat. II)
+Palabras claves: Riesgos de Desastres – Datos - Disponibilidad – Decisiones
+Disaster risks - Data - Availability - - Decisions
 
 ## Marco institucional
 Este repositorio presenta un visor web de información geoespacial desarrollado
