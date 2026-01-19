@@ -90,7 +90,7 @@ body {
   }
 
 .titulo-secundario {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 600;
   margin: 6px 0 12px 0;
   color: #555;
@@ -193,9 +193,7 @@ body {
     <p><strong>Proyecto FI-D-1002 SECTER-UNJU.</strong></p>
    </h1>
    <h2 class="titulo-secundario">
-      Esta herramienta <strong><em>web-mapping </em></strong>   fue construida como apoyo a un sistema de alerta temprana a partir del evento sucedido el 10 de enero de 2017 en la localidad de Volcán. Identifica las áreas de depósito aluvional, los tipos de peligros, el nivel de daño sufrido según zonas y elementos expuestos disponibles como datos abiertos. Se utilizaron geoservicios <strong>WFS</strong> de <strong>IDEJuy</strong> (Prov. Jujuy), <strong>SIGAM - SEGEMAR </strong>(Sistema de Información Geológico Ambiental Minero del Servicio Geológico Minero Argentino), del <strong>IGN</strong> (Inst. Geográfico Nacional)</strong> y otros producidos por el proyecto de investigación.
-   </h2>
-</div>
+    Esta herramienta <strong><em>web-mapping </em></strong>   fue construida como apoyo a un sistema de alerta temprana (SAT) a partir del evento sucedido el 10 de enero de 2017 en la localidad de Volcán. Identifica las áreas de depósito aluvional, los tipos de peligros y el nivel de daño sufrido según zonas; se representan elementos e infraestructuras disponibles como datos abiertos y por ello se incluyen desarrollos y obras posteriores al aluvión. Se utilizaron geoservicios <strong>WFS</strong> de <strong>IDEJuy</strong> (Prov. Jujuy), <strong>SIGAM - SEGEMAR </strong>(Sistema de Información Geológico Ambiental Minero del Servicio Geológico Minero Argentino), del <strong>IGN</strong> (Inst. Geográfico Nacional) <strong>OSM</strong> OpenStreetMap y otros producidos en el marco del proyecto.
        <div class="separador-doble"></div>
 </div>
         <div id="map">
@@ -226,6 +224,14 @@ body {
             map.getView().setZoom(15);
         }
     };
+    var view = new ol.View({
+    zoom: 14,
+    maxZoom: 20,
+    minZoom: 12, // Esto evita que el usuario se aleje demasiado de Volcán
+    constrainResolution: true, // ¡Clave! Hace que el zoom sea por pasos fijos
+    smoothExtentConstraint: false,
+    multiWorld: false
+});
 </script>   
     <div id="integrantes">
     <strong>Integrantes del Proyecto:</strong>
