@@ -3,7 +3,7 @@ Proyecto FI-D-1002 SECTER–UNJu
 
 ## Marco institucional
 Este repositorio presenta un visor web de información geoespacial desarrollado
-en el ámarco de un proyecto de investigación de la Facultad de Ingeniería de la 
+en el marco de un proyecto de investigación de la Facultad de Ingeniería de la 
 Universidad Nacional de Jujuy, orientado a la Gestión del Riesgo de Desastres (GRD) 
 en la localidad de Volcán, provincia de Jujuy (Argentina).
 El proyecto no constituye una herramienta oficial ni operativa de los organismos
