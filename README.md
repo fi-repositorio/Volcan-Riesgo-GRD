@@ -1,5 +1,5 @@
 # Datos para la Gestión del Riesgo de Desastres – Volcán, Jujuy (RA)
-Proyecto FI-D-1002 SECTER–UNJu:<br>
+Proyecto FI-D-1002 SECTER–UNJu<br>
 Titulo del Proyecto de investigación:<br>
 DISPONIBILIDAD DE DATOS GEOLOCALIZADOS PARA LA TOMA DE DECISIONES EN LA 
 GESTIÓN DE RIESGOS DE DESASTRES. CASOS DE ESTUDIO: VOLCÁN, PROVINCIA DE JUJUY.
