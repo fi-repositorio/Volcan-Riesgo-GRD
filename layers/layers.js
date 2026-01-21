@@ -161,9 +161,9 @@ var lyr_ParcelasImpactoevento2017_10 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_ParcelasImpactoevento2017_10, 
                 style: style_ParcelasImpactoevento2017_10,
-                popuplayertitle: 'Parcelas (Impacto evento 2017)',
+                popuplayertitle: 'OSM Parcelas (Impacto evento 2017)',
                 interactive: true,
-    title: 'Parcelas (Impacto evento 2017)<br />\
+    title: 'OSM Parcelas (Impacto evento 2017)<br />\
     <img src="styles/legend/ParcelasImpactoevento2017_10_0.png" />   Destruccion total o muy severa<br />\
     <img src="styles/legend/ParcelasImpactoevento2017_10_1.png" />   Destruccion alta a media<br />\
     <img src="styles/legend/ParcelasImpactoevento2017_10_2.png" />   Impacto moderado<br />\
@@ -179,9 +179,9 @@ var lyr_Equipamientourbano_11 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_Equipamientourbano_11, 
                 style: style_Equipamientourbano_11,
-                popuplayertitle: 'Equipamiento urbano',
+                popuplayertitle: 'OSM Equipamiento urbano',
                 interactive: true,
-    title: 'Equipamiento urbano<br />\
+    title: 'OSM Equipamiento urbano<br />\
     <img src="styles/legend/Equipamientourbano_11_0.png" />   Agua Potable S.A.<br />\
     <img src="styles/legend/Equipamientourbano_11_1.png" />   Biblioteca 3 de Abril<br />\
     <img src="styles/legend/Equipamientourbano_11_2.png" />   Campo Deportivo<br />\
